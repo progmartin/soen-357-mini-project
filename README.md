@@ -21,7 +21,7 @@ research
 	AI structure  
 	empathy maps/story board  
 	user goal  
-	#1589F0
+	#f03c15
 ```
 ```
 prototype  
