@@ -30,5 +30,5 @@ prototype
 	mock-ups   
 	style guide  
 	prototype iterations  
-	#f03c15
+	
 ```
