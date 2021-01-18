@@ -9,7 +9,7 @@ website layout tentative:
 
 the problem 
 
-research  
+**research ** 
 	existing superapps   
 	well being apps  
 	what encourages good habits  
@@ -17,13 +17,13 @@ research
 	persona  
 	user journey   
 	task analysis  
-	flow chart
-	AI structure
-	empathy maps/story board
-user goal
-prototype
-	sketches 
-	wireframe
-	mock-ups 
-	style guide
-	prototype iterations
+	flow chart  
+	AI structure  
+	empathy maps/story board  
+user goal  
+**prototype**  
+	sketches   
+	wireframe  
+	mock-ups   
+	style guide  
+	prototype iterations  
