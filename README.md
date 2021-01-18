@@ -7,9 +7,9 @@ workflow for project:
 
 website layout tentative:
 ```
-**the problem**  
+the problem  
 
-**research**   
+research   
 	existing superapps   
 	well being apps  
 	what encourages good habits  
@@ -23,9 +23,12 @@ website layout tentative:
 	user goal  
 	#1589F0
 ```
-**prototype**  
+```
+prototype  
 	sketches 
 	wireframe  
 	mock-ups   
 	style guide  
 	prototype iterations  
+	#f03c15
+```
