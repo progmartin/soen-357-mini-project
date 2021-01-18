@@ -7,23 +7,24 @@ workflow for project:
 
 website layout tentative:
 
-the problem 
+**the problem**  
 
-research  
-	  existing superapps   
+**research**   
+	existing superapps   
 	well being apps  
 	what encourages good habits  
 	interviews/questionnairs  
 	persona  
 	user journey   
-	task analysis  
-	flow chart
-	AI structure
-	empathy maps/story board
-user goal
-prototype
+	task analysis    
+	flow chart  
+	AI structure  
+	empathy maps/story board  
+	user goal  
+	
+**prototype**  
 	sketches 
-	wireframe
-	mock-ups 
-	style guide
-	prototype iterations
+	wireframe  
+	mock-ups   
+	style guide  
+	prototype iterations  
