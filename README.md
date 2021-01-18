@@ -6,10 +6,10 @@ workflow for project:
 
 
 website layout tentative:
+```
+the problem  
 
-**the problem**  
-
-**research**   
+research   
 	existing superapps   
 	well being apps  
 	what encourages good habits  
@@ -21,10 +21,15 @@ website layout tentative:
 	AI structure  
 	empathy maps/story board  
 	user goal  
+	#f03c15
+```
+```diff
+-prototype  
+-	sketches 
+-	wireframe  
+-	mock-ups   
+-	style guide  
+-	prototype iterations  
 	
-**prototype**  
-	sketches 
-	wireframe  
-	mock-ups   
-	style guide  
-	prototype iterations  
+```
+
