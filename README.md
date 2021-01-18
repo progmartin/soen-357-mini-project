@@ -25,10 +25,10 @@ research
 ```
 ```diff
 -prototype  
-	-sketches 
-	-wireframe  
-	-mock-ups   
-	-style guide  
-	-prototype iterations  
+-	sketches 
+-	wireframe  
+-	mock-ups   
+-	style guide  
+-	prototype iterations  
 	
 ```
