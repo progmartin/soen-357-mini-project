@@ -32,4 +32,4 @@ research
 -	prototype iterations  
 	
 ```
-color.Cyan("Prints text in cyan.")
+
