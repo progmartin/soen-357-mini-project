@@ -6,7 +6,7 @@ workflow for project:
 
 
 website layout tentative:
-
+```
 **the problem**  
 
 **research**   
@@ -21,7 +21,8 @@ website layout tentative:
 	AI structure  
 	empathy maps/story board  
 	user goal  
-	
+	#1589F0
+```
 **prototype**  
 	sketches 
 	wireframe  
