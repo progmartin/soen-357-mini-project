@@ -24,11 +24,11 @@ research
 	#f03c15
 ```
 ```diff
-prototype  
-	sketches 
-	wireframe  
-	mock-ups   
-	style guide  
-	prototype iterations  
+-prototype  
+	-sketches 
+	-wireframe  
+	-mock-ups   
+	-style guide  
+	-prototype iterations  
 	
 ```
